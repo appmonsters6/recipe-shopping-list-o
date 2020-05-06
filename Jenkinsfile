@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "Hello World test!"
+                echo "I am in organisations of jebkins plugin"
             }
         }
     }

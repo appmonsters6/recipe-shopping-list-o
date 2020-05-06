@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "Hello World!"
+                echo "i am in recipe-shopping-list-o"
             }
         }
     }
